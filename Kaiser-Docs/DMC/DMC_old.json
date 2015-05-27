@@ -1,0 +1,146 @@
+{
+  "membershipCardData": [
+    {
+      "legalDisclaimers": {
+        "entityRelationshipDisclaimer": "Pharmacy Benefit Underwritten by KPIC",
+        "idCardIdentificationOnlyDisclaimer": "This card is for identification only. Possession of this card confers no right to services or benefits unless the holder is a member complying with all provisions of an applicable agreement.",
+        "precertificationDisclaimer": null,
+        "disclaimer911": "If you think you have a medical or psychiatric emergency, call 911 or go to the nearest hospital.",
+        "emergencyCareDisclaimer": "If you receive emergency care in a non-Plan hospital, call (800) 225-8883, TTY 711, as soon as your condition is stabilized so that a Kaiser Permanente physician can access your medical information to discuss your care with the treating physician. Your call to obtain authorization for post-stabilization care may also help protect you from financial responsibility."
+      },
+      "serviceContactDetails": {
+        "afterHoursNurseAdviceContactNumber": {
+          "inNetwork": {
+            "voice": {
+              "tollFreeNumber": "(888) 576-6225",
+              "tollNumber": null
+            },
+            "tty": {
+              "tollFreeNumber": null,
+              "tollNumber": "711"
+            }
+          },
+          "outOfNetwork": {
+            "voice": {
+              "tollFreeNumber": null,
+              "tollNumber": null
+            },
+            "tty": {
+              "tollFreeNumber": null,
+              "tollNumber": null
+            }
+          }
+        },
+        "pharmacyEligibilityContactNumber": null,
+        "nonEmergencyNonHmoClaimsAddress": null,
+        "claimsAddress": null,
+        "emergencyCareInNonPlanHospitalContactNumber": {
+          "inNetwork": {
+            "voice": {
+              "tollFreeNumber": "(800) 225-8883",
+              "tollNumber": null
+            },
+            "tty": {
+              "tollFreeNumber": null,
+              "tollNumber": "711"
+            }
+          },
+          "outOfNetwork": {
+            "voice": {
+              "tollFreeNumber": null,
+              "tollNumber": null
+            },
+            "tty": {
+              "tollFreeNumber": null,
+              "tollNumber": null
+            }
+          }
+        },
+        "healthPlanBenefitsContactNumber": {
+          "inNetwork": {
+            "voice": {
+              "tollFreeNumber": "(800) 464-4000",
+              "tollNumber": null
+            },
+            "tty": {
+              "tollFreeNumber": null,
+              "tollNumber": "711"
+            }
+          },
+          "outOfNetwork": {
+            "voice": {
+              "tollFreeNumber": null,
+              "tollNumber": null
+            },
+            "tty": {
+              "tollFreeNumber": null,
+              "tollNumber": null
+            }
+          }
+        }
+      },
+      "errorDetails": null,
+      "membershipAccountDetails": {
+        "relationshipID": null,
+        "medicalRecordNumber": "35031989",
+        "membershipAccountStatus": "ACTIVE",
+        "medicalRecordNumberPrefix": "00",
+        "accountRole": "SUBSCRIBER"
+      },
+      "pharmacyInfo": {
+        "rxGroupId": null,
+        "rxBIN": null,
+        "rxPCN": null
+      },
+      "healthPlanDescriptors": {
+        "medicalPlanName": null,
+        "pharmacyPlanName": null,
+        "kaiserEntityName": "Kaiser Foundation Health Plan, Inc."
+      },
+      "memberDemographics": {
+        "regionCode": "SCA",
+        "regionName": "Southern California",
+        "gender": "M",
+        "birthDate": "1971-10-10T00:00:00.000+0000",
+        "memberName": {
+          "middleName": null,
+          "nameSuffix": null,
+          "lastName": "WPPSCLABCDEFZZHLN",
+          "preferredName": null,
+          "fullName": "Subscriber WPPSCLABCDEFZZHLN",
+          "namePrefix": null,
+          "firstName": "Subscriber"
+        }
+      },
+      "logosAndURLs": {
+        "otherComplianceLogoUrl1_Root": null,
+        "medImpactLogoUrl_Image": null,
+        "medicareRxLogoUrl_Root": null,
+        "kpWebsiteUrl": "http://www.kp.org",
+        "kpLogoUrl_Image": "logo_kaiser.png",
+        "otherComplianceLogoUrl1_Image": null,
+        "discretionaryLogoUrl2_Root": null,
+        "otherComplianceLogoUrl2_Image": null,
+        "discretionaryLogoUrl1_Image": null,
+        "otherComplianceLogoUrl2_Root": null,
+        "kpLogoUrl_Root": "/static/health/images/digital_membership_card/scal/kp",
+        "discretionaryLogoUrl2_Image": null,
+        "medImpactLogoUrl_Root": null,
+        "discretionaryLogoUrl1_Root": null
+      },
+      "miscCardAttributes": null,
+      "membershipPlanInfo": {
+        "issuerId": null,
+        "groupId": "102106",
+        "selfFunded": false,
+        "subGroupId": "8500",
+        "coverageStartDate": "2014-03-01T00:00:00.000+0000",
+        "medicareInfo": null,
+        "dmcConsumerPlanType": "KFHP_HMO",
+        "exchangeType": null,
+        "coverageEndDate": "4000-12-31T00:00:00.000+0000",
+        "dmcId": "KFHP_HMO:102106"
+      }
+    }
+  ]
+}

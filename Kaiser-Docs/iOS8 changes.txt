@@ -1,0 +1,129 @@
+Frameworks/Crashlytics.framework/Versions/A/Crashlytics
+Frameworks/Crashlytics.framework/Versions/A/Resources/Info.plist
+Frameworks/Crashlytics.framework/run
+Frameworks/Crashlytics.framework/submit
+KaiserPermanente.xcodeproj/project.pbxproj
+KaiserPermanente.xcodeproj/xcshareddata/xcschemes/KP Beta (Push).xcscheme
+KaiserPermanente.xcodeproj/xcshareddata/xcschemes/KP Beta.xcscheme
+KaiserPermanente.xcodeproj/xcshareddata/xcschemes/KP Release.xcscheme
+KaiserPermanente/AppDelegate.m
+KaiserPermanente/Appointments/Create/EPIC/KPCreateAppointmentViewController.m
+KaiserPermanente/Appointments/Create/EPIC/Storyboard/KPEPICCreateAppointmentStoryboard.storyboard
+KaiserPermanente/Appointments/Create/NCAL/KPNCALAppointmentReasonsViewController.m
+KaiserPermanente/Appointments/Create/NCAL/KPNCALCreateAppointmentViewController.m
+KaiserPermanente/Appointments/Create/NCAL/KPNCALReminderViewController.m
+KaiserPermanente/Appointments/Create/NCAL/KPNCALReviewBookViewController.m
+KaiserPermanente/Appointments/Create/NCAL/Storyboard/KPNCALCreateAppointmentStoryboard.storyboard
+KaiserPermanente/Appointments/KPAppointmentDetailsViewController.m
+KaiserPermanente/Appointments/KPAppointmentsListTableViewController.m
+KaiserPermanente/Appointments/KPAppointmentsListViewController.m
+KaiserPermanente/Appointments/KPCancelReasonsViewController.m
+KaiserPermanente/Appointments/Model/KPAppointment+Logic.m
+KaiserPermanente/Appointments/Service/NCAL/KPNCALAppointmentsService.m
+KaiserPermanente/Appointments/Storyboard/KPAppointmentsStoryboard.storyboard
+KaiserPermanente/Contact Us/KPContactUsViewController.m
+KaiserPermanente/DMC/KPDMCLandingViewController.m
+KaiserPermanente/DMC/KPMainStoryboard.storyboard
+KaiserPermanente/DMC/KPeCardFrontViewController.m
+KaiserPermanente/DMC/Storyboard/KPDMCStoryBoard.storyboard
+KaiserPermanente/Dashboard/KPDashboardItemView.m
+KaiserPermanente/Dashboard/KPDashboardItemViewController.m
+KaiserPermanente/Dashboard/KPDashboardViewController.m
+KaiserPermanente/Dashboard/KPFeatureNotAvailableViewController.m
+KaiserPermanente/Dashboard/Storyboard/KPDashboardStoryboard.storyboard
+KaiserPermanente/Database/Logic/KPProxy+Logic.m
+KaiserPermanente/Dependencies/KPMockServices/KPMockServiceResponsesDemo.m
+KaiserPermanente/Dependencies/Usablenet/KPUsablenetWebViewController.m
+KaiserPermanente/Helpers/Defaults/KPUserDefaultsHelper.h
+KaiserPermanente/Helpers/Defaults/KPUserDefaultsHelper.m
+KaiserPermanente/Helpers/Global Help/KPTeachScreenViewController.m
+KaiserPermanente/Helpers/KPCustom/Animation/KPAnimatedTransitioning.h
+KaiserPermanente/Helpers/KPCustom/Animation/KPAnimatedTransitioning.m
+KaiserPermanente/Helpers/KPCustom/Appearance/KPAppearanceManager.h
+KaiserPermanente/Helpers/KPCustom/Appearance/KPAppearanceManager.m
+KaiserPermanente/Helpers/KPCustom/Appearance/Segues/KPFoldSegue.m
+KaiserPermanente/Helpers/KPCustom/KPSessionTimer.h
+KaiserPermanente/Helpers/KPCustom/KPSessionTimer.m
+KaiserPermanente/Helpers/KPCustom/Views/KPEmergencyInfoView.m
+KaiserPermanente/Locations/KPFacilityDetailsTVC.m
+KaiserPermanente/Locations/KPFavoriteFacilitiesTVC.m
+KaiserPermanente/Locations/KPLocationsListTVC.h
+KaiserPermanente/Locations/KPLocationsListTVC.m
+KaiserPermanente/Locations/KPLocationsViewController.h
+KaiserPermanente/Locations/KPLocationsViewController.m
+KaiserPermanente/Locations/KPMapViewController.h
+KaiserPermanente/Locations/KPMapViewController.m
+KaiserPermanente/Locations/Storyboard/KPLocationsStoryboard.storyboard
+KaiserPermanente/Locations/TBQuadTree/TBCoordinateQuadTree.m
+KaiserPermanente/Login/Interrupts/KPChangePasswordViewController.m
+KaiserPermanente/Login/Interrupts/KPUpdateEmailViewController.m
+KaiserPermanente/Login/Interrupts/SecretQuestions/KPSecretQAViewController.m
+KaiserPermanente/Login/Interrupts/Storyboard/InterruptStoryboard.storyboard
+KaiserPermanente/Login/KPForgotUserIDViewController.m
+KaiserPermanente/Login/KPLoginViewController.m
+KaiserPermanente/Login/KPTermsConditionsViewController.m
+KaiserPermanente/Login/Storyboard/Base.lproj/KPMainStoryboard.storyboard
+KaiserPermanente/MMR/Health Reminders/KPHealthRemindersTableViewController.m
+KaiserPermanente/MMR/Immunizations/KPImmunizationsTableViewController.m
+KaiserPermanente/MMR/KPMMRSingleProxyViewController.m
+KaiserPermanente/MMR/KPMMRTableViewController.m
+KaiserPermanente/MMR/Storyboard/KPMMRStoryboard.storyboard
+KaiserPermanente/MMR/Test Results/KPTestResultsDetailsTableViewController.m
+KaiserPermanente/Messages/Compose/KPComposeMessageEpicTVC.m
+KaiserPermanente/Messages/Compose/KPComposeMessageViewController.m
+KaiserPermanente/Messages/Compose/KPComposeMessagesContainerViewController.m
+KaiserPermanente/Messages/Compose/KPComposeReplyViewController.m
+KaiserPermanente/Messages/KPMessagesContainerViewController.m
+KaiserPermanente/Messages/Storyboard/KPMessagesStoryboard.storyboard
+KaiserPermanente/Pharmacy/KPPrescriptionsContainerViewController.m
+KaiserPermanente/Push Notifications/KPPushNotificationManager.m
+KaiserPermanente/Settings/About/KPSettingsAppInformationViewController.m
+KaiserPermanente/Settings/KPAppFeedbackParentVC.m
+KaiserPermanente/Settings/KPSettingsTVC.m
+KaiserPermanente/Settings/KPSettingsViewController.m
+KaiserPermanente/Settings/Storyboard/KPSettingsStoryboard.storyboard
+KaiserPermanente/Supporting Files/KaiserPermanente-Prefix.pch
+KaiserPermanente/Supporting Files/Localized Source Files/KPAppointmentsList.strings
+KaiserPermanente/Supporting Files/Localized Source Files/KPMessages.strings
+KaiserPermanente/Supporting Files/Localized Source Files/Localizable.strings
+KaiserPermanente/Supporting Files/Settings.bundle/Root.plist
+Pods/KPLocationData/Resources/Categories.plist
+Pods/Pods.xcodeproj/project.pbxproj
+
+KaiserPermanente/Helpers/EmergencyInfoView/Storyboard/EmergencyInfoStoryboard.storyboard
+KaiserPermanente/Settings/KPAppFeedbackParentVC.m
+KaiserPermanente/Settings/KPAppFeedbackViewController.m
+
+KaiserPermanente/Supporting Files/Scripts/genstrings.sh
+
+KaiserPermanente.xcodeproj/project.pbxproj
+3   KaiserPermanente/Helpers/KPCustom/Appearance/KPAppearanceManager.m
+27   KaiserPermanente/Login/Cells/KPFUIDnonPickerCell.h
+78   KaiserPermanente/Login/Cells/KPFUIDnonPickerCell.m
+22   KaiserPermanente/Login/Cells/KPTableViewFUIDPickerCell.h
+47   KaiserPermanente/Login/Cells/KPTableViewFUIDPickerCell.m
+23   KaiserPermanente/Login/KPForgotUserIDViewController.h
+65   KaiserPermanente/Login/KPForgotUsernameTableViewController.h
+699   KaiserPermanente/Login/KPForgotUsernameTableViewController.m
+13   KaiserPermanente/Login/KPForgotUsernameViewController.h
+286   KaiserPermanente/Login/KPForgotUsernameViewController.m
+51   KaiserPermanente/Login/KPLoginViewController.m
+5   KaiserPermanente/Login/KPSignInFAQTableViewController.m
+3,474   KaiserPermanente/Login/Storyboard/KPSignInFAQStoryboard.storyboard
+BIN   KaiserPermanente/Supporting Files/Localized Source Files/KPLogin.strings
+BIN   KaiserPermanente/Supporting Files/Localized Source Files/Localizable.strings
+2   Podfile
+12   Podfile.lock
+1   Pods/BuildHeaders/KPDevice/KPDevice+Screen.h
+1   Pods/Headers/KPDevice/KPDevice+Screen.h
+2   Pods/KPCensorView/KPCensorView/UIImage+ImageEffects.h
+2   Pods/KPCensorView/KPCensorView/UIImage+ImageEffects.m
+44   Pods/KPDevice/Classes/KPDevice+Screen.h
+77   Pods/KPDevice/Classes/KPDevice+Screen.m
+17   Pods/KPDevice/Classes/KPDevice.h
+20   Pods/KPDevice/Classes/KPDevice.m
+12   Pods/Manifest.lock
+4   Pods/Pods-environment.h
+6,945   Pods/Pods.xcodeproj/project.pbxproj
+
+

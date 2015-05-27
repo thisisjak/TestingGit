@@ -1,0 +1,121 @@
+{
+  "membershipCardData": {
+    "legalDisclaimers": {
+      "entityRelationshipDisclaimer": null,
+      "idCardIdentificationOnlyDisclaimer": "This card is for identification only. Possession of this card confers no right to services or benefits unless the holder is a member complying with all provisions of an applicable agreeement.",
+      "precertificationDisclaimer": null,
+      "disclaimer911": "Call 911 if you think you have a medical emergency.",
+      "otherDisclaimer2": null,
+      "otherDisclaimer1": "Call Medical Advice if you have an emergency hospital admission.",
+      "emergencyCareDisclaimer": "If you are unsure of your condition and require immediate medical advice, call (800) 677-1112."
+    },
+    "serviceContactDetails": [
+      null,
+      null,
+      null
+    ],
+    "configDetails": {
+      "userInterface": {
+        "templateId": "1001"
+      }
+    },
+    "errorDetails": null,
+    "membershipAccountDetails": {
+      "relationshipID": null,
+      "medicalRecordNumber": "78190120",
+      "membershipAccountStatus": "A",
+      "primaryCarePhysicianAddress": {
+        "zipCode": "20910",
+        "stateCode": "MD",
+        "addressLine2": "null",
+        "addressLine1": "12201 PLUM ORCHARD DRIVE",
+        "city": "SILVER SPRING"
+      },
+      "primaryCarePhysicianPhoneNumber": {
+        "inNetwork": {
+          "voice": {
+            "tollFreeNumber": null,
+            "tollNumber": "301-572-1000"
+          },
+          "tty": null
+        },
+        "outOfNetwork": null
+      },
+      "primaryCarePhysicianName": "KATIE RYDER",
+      "primaryCarePhysicianCode": "13172",
+      "medicalRecordNumberPrefix": null,
+      "formattedMedicalRecordNumber": "78190120",
+      "accountRole": "SUBSCRIBER",
+      "primaryCarePhysicianElectionDate": "2014-07-17T00:00:00.000+0000"
+    },
+    "pharmacyInfo": {
+      "rxGroupId": null,
+      "rxBIN": null,
+      "rxPCN": null
+    },
+    "healthPlanDescriptors": {
+      "medicalPlanName": null,
+      "kaiserEntityName2": null,
+      "pharmacyPlanName": null,
+      "kaiserEntityName": "Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",
+      "medicalPlanName2": null
+    },
+    "memberDemographics": {
+      "regionCode": "MID",
+      "regionName": "Mid Atlantic States",
+      "gender": "F",
+      "birthDate": "1974-05-05T00:00:00.000+0000",
+      "memberName": {
+        "middleName": null,
+        "nameSuffix": null,
+        "lastName": "WPPDMCMASABCBL",
+        "preferredName": null,
+        "fullName": "SUBSCRIBER WPPDMCMASABCBL",
+        "namePrefix": null,
+        "firstName": "SUBSCRIBER"
+      }
+    },
+    "logosAndURLs": {
+      "otherComplianceLogoUrl1_Root": null,
+      "medImpactLogoUrl_Image": null,
+      "discretionaryLogoUrl2HintText": null,
+      "medicareRxLogoUrl_Root": null,
+      "kpWebsiteUrl": "http://kp.org",
+      "discretionaryLogoUrl1HintText": null,
+      "kpLogoUrl_Image": "logo_kaiser.png",
+      "medImpactLogoUrlHintText": null,
+      "otherComplianceLogoUrl1_Image": null,
+      "otherComplianceLogoUrl2HintText": null,
+      "medicareRxLogoUrlHintText": null,
+      "discretionaryLogoUrl2_Root": null,
+      "discretionaryLogoUrl1_Image": null,
+      "otherComplianceLogoUrl2_Image": null,
+      "otherComplianceLogoUrl2_Root": null,
+      "kpLogoUrl_Root": "/static/health/images/digital_membership_card/mid/android",
+      "discretionaryLogoUrl2_Image": null,
+      "kpLogoUrlHintText": null,
+      "medImpactLogoUrl_Root": null,
+      "otherComplianceLogoUrl1HintText": null,
+      "discretionaryLogoUrl1_Root": null
+    },
+    "miscCardAttributes": {
+      "issuerId": null,
+      "payerId": null
+    },
+    "membershipPlanInfo": {
+      "groupId": "1359",
+      "purchaserName": "TELOS CORP(DED/$0/SIG)",
+      "selfFunded": "false",
+      "subGroupId": "8",
+      "governmentProgramInfo": {
+        "medicaidProgram": null,
+        "medicareProgram": null
+      },
+      "coverageStartDate": "2014-07-01T00:00:00.000+0000",
+      "dmcConsumerPlanType": "KFHP_HMO",
+      "exchangeType": null,
+      "coverageEndDate": null,
+      "dmcId": "KFHP_HMO_WHT"
+    }
+  }
+}
